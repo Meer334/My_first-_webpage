@@ -1,0 +1,9 @@
+img {
+    width: 100%;
+}
+#border {
+    border-bottom: 1px solid rgb(224, 222, 222);
+}
+.card img {
+    height: 250px;
+}
